@@ -1,7 +1,7 @@
 ### Hi there I am Tanuj Dwivedi👋
 
 
-- 🔭 I’m currently working to make India's largest Fantasy Sports Platform and it's ecosystem container native.
+- 🔭 I’m currently working on enterprise service mesh product at Tetrate.
 
 - ❤️ I love exploring open source infrastructure tools arround kubernetes and golang.
 
