@@ -13,4 +13,4 @@
 
 - 📫 Reach me at:
    
-   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanuj-dwivedi-32a070132/) &nbsp;&nbsp;&nbsp; [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwiveditanuj41@gmail.com) <img alt="ViewCount" src="https://komarev.com/ghpvc/?username=tanujd11" />
+   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanuj-dwivedi-32a070132/) &nbsp;&nbsp;&nbsp; [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwiveditanuj41@gmail.com) <img alt="ViewCount" src="https://komarev.com/ghpvc/?username=tanujd11&&style=for-the-badge" />
